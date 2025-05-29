@@ -1,3 +1,6 @@
 [submodule "scheduler"]
 	path = scheduler
 	url = git@github.com:Ripple-Engine/scheduler.git
+[submodule "lib"]
+	path = lib
+	url = git@github.com:Ripple-Engine/lib.git
